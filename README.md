@@ -31,18 +31,22 @@ The workflow includes:
 ```text
 Banking Transaction Monitoring/
 │
-├── 1_create_data_source.sas
-├── 2_data_quality_assessment.sas
-├── 3_data_cleaning.sas
-├── 4_data_transformation.sas
-├── 5_transaction_monitoring.sas
-├── 6_generate_KPIS.sas
-├── 7_generate_charts_data.sas
-├── 8_load_insights_into_CAS.sas
-├── etl_pipeline.sas
+├── source_code/
+│   ├── 1_create_data_source.sas
+│   ├── 2_data_quality_assessment.sas
+│   ├── 3_data_cleaning.sas
+│   ├── 4_data_transformation.sas
+│   ├── 5_transaction_monitoring.sas
+│   ├── 6_generate_KPIS.sas
+│   ├── 7_generate_charts_data.sas
+│   ├── 8_load_insights_into_CAS.sas
+│   └── etl_pipeline.sas
 │
-├── dashboard_overview.png
-└── alert_details.png
+├── images/
+│   ├── dashboard_overview.png
+│   └── alert_details.png
+│
+└── README.md
 ```
 
 ## ETL & Analysis Workflow
