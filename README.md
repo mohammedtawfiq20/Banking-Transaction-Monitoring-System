@@ -109,11 +109,11 @@ Loads and promotes the dashboard and analysis tables into the `CASUSER` caslib f
 
 ### Dashboard Overview
 
-![Banking Transaction Monitoring Dashboard](dashboard_overview.png)
+![Banking Transaction Monitoring Dashboard](images/dashboard_overview.png)
 
 ### Alert Details
 
-![Transaction Alert Details](alert_details.png)
+![Transaction Alert Details](images/alert_details.png)
 
 ## How to Run
 
